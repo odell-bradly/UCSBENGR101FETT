@@ -12,3 +12,8 @@ Phillip Fry | Project leader
 Christian Newkirk | Organizing Secretary
 Oshea Anaya | Researcher
 Nate Diamond | Presentation leader
+
+## HTTP 301 !!!
+This site has been moved permanently to the following Wordpress [page](https://ucsbteamfett.wordpress.com).
+
+[ucsbteamfett.wordpress.com](https://ucsbteamfett.wordpress.com)
